@@ -26,7 +26,7 @@ cc_library(
     deps = [
         "//tflite/c:c_api_types",
         "//tflite/experimental/litert/c:litert_accelerator",
-        "//tflite/experimental/litert/c:litert_accelerator_options",
+        "//tflite/experimental/litert/c:litert_accelerator_compilation_options",
         "//tflite/experimental/litert/c:litert_accelerator_registration",
         "//tflite/experimental/litert/c:litert_common",
         "//tflite/experimental/litert/c:litert_dispatch_delegate",

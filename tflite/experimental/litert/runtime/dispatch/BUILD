@@ -42,6 +42,7 @@ cc_library(
         "//tflite/experimental/litert/c:litert_tensor_buffer",
         "//tflite/experimental/litert/cc:litert_expected",
         "//tflite/experimental/litert/core:dynamic_loading",
+        "//tflite/experimental/litert/core:version",
     ],
 )
 

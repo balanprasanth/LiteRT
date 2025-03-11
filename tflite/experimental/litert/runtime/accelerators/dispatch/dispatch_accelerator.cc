@@ -21,7 +21,7 @@
 #include "absl/strings/string_view.h"
 #include "tflite/c/c_api_types.h"
 #include "tflite/experimental/litert/c/litert_accelerator.h"
-#include "tflite/experimental/litert/c/litert_accelerator_options.h"
+#include "tflite/experimental/litert/c/litert_accelerator_compilation_options.h"
 #include "tflite/experimental/litert/c/litert_accelerator_registration.h"
 #include "tflite/experimental/litert/c/litert_common.h"
 #include "tflite/experimental/litert/c/litert_dispatch_delegate.h"
