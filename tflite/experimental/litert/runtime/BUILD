@@ -305,6 +305,7 @@ cc_library(
         ":tensor_buffer",
         "//tflite/experimental/litert/c:litert_common",
         "//tflite/experimental/litert/c:litert_environment",
+        "//tflite/experimental/litert/c:litert_tensor_buffer_types",
         "//tflite/experimental/litert/cc:litert_expected",
         "//tflite/experimental/litert/cc:litert_macros",
         "//tflite/experimental/litert/cc:litert_tensor_buffer_utils",
